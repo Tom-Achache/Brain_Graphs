@@ -1,3 +1,3 @@
 # Role of Neuronal Architecture in Biomimetic Neural Networks
 
-Coming soon !
+Computation & the Brain Final Project
